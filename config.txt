@@ -1,0 +1,10 @@
+/*bind ip address*/
+127.0.0.1
+/*bind port*/
+25566
+/*server ip address*/
+127.0.0.1
+/*server port*/
+25579
+/*motd*/
+Proxy Server
